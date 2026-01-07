@@ -1,3 +1,4 @@
+![logo](C:\Users\Sujit Ghadi\Downloads\vecteezy_cyber-big-data-flow-blockchain-data-fields-brain-network_22263426.jpg)
 <h1 align="center">Hi 👋, I'm Sujit Ghadi</h1>
 <h3 align="center">A passionate data science professional turning data into insights.</h3>
 
