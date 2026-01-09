@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sujit Ghadi</h1>
 <h3 align="center">A passionate data science professional turning data into insights.</h3>
 
+<img align = "right" alt="coding" width="400" src="https://github.com/ghadisujit1005/ghadisujit1005/blob/main/vecteezy_business-chart-and-graph_3146391.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadisujit1005&label=Profile%20views&color=0e75b6&style=flat" alt="ghadisujit1005" /> </p>
 
 - 💬 Ask me about **Data Analysis, Python, Machine Learning basics, Pandas, NumPy, Matplotlib**
