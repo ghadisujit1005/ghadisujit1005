@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujit Ghadi</h1>
 <h3 align="center">A passionate data science professional turning data into insights.</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadisujit1005&label=Profile%20views&color=0e75b6&style=flat" alt="ghadisujit1005" /> </p>
-
-- 🔭 Projects I’ve worked on [Super-Store-Sales-Performance](https://github.com/ghadisujit1005/Super-Store-Sales-Performance)
-
-- 🌱 I’m currently learning **Machine Learning algorithms**
 
 - 💬 Ask me about **Data Analysis, Python, Machine Learning basics, Pandas, NumPy, Matplotlib**
 
