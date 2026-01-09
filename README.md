@@ -1,3 +1,4 @@
+![logo](https://www.vecteezy.com/photo/22263426-cyber-big-data-flow-blockchain-data-fields-brain-network-line-connect-stream-concept-of-ai-technology-digital-communication-science-research-neural-cells-generative-ai)
 <h1 align="center">Hi 👋, I'm Sujit Ghadi</h1>
 <h3 align="center">A passionate data science professional turning data into insights.</h3>
 
