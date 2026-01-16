@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ghadisujit28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/150qloOo-npVTwLKKRrsrIbC2BVr0-4KI/view?usp=sharing](https://drive.google.com/file/d/150qloOo-npVTwLKKRrsrIbC2BVr0-4KI/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/150qloOo-npVTwLKKRrsrIbC2BVr0-4KI/view?usp=sharing](https://drive.google.com/file/d/150qloOo-npVTwLKKRrsrIbC2BVr0-4KI/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy finding patterns in data and turning them into insights 📊.**
 
