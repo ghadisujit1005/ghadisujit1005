@@ -4,13 +4,18 @@
 
 <img align = "right" alt="coding" width="400" src="https://github.com/ghadisujit1005/ghadisujit1005/blob/main/vecteezy_business-chart-and-graph_3146391.jpg">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadisujit1005&label=Profile%20views&color=0e75b6&style=flat" alt="ghadisujit1005" /> </p>
+
+- 🔭 Projects I’ve worked on [Super-Store-Sales-Performance](https://github.com/ghadisujit1005/Super-Store-Sales-Performance)
+
+- 🌱 I’m currently learning **Machine Learning algorithms**
 
 - 💬 Ask me about **Data Analysis, Python, Machine Learning basics, Pandas, NumPy, Matplotlib**
 
 - 📫 How to reach me **ghadisujit28@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Sujit%20Ghadi/Downloads/Sujit_resume_mumbai.pdf](file:///C:/Users/Sujit%20Ghadi/Downloads/Sujit_resume_mumbai.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/150qloOo-npVTwLKKRrsrIbC2BVr0-4KI/view?usp=sharing](https://drive.google.com/file/d/150qloOo-npVTwLKKRrsrIbC2BVr0-4KI/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy finding patterns in data and turning them into insights 📊.**
 
